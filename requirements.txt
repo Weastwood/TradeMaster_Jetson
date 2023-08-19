@@ -17,7 +17,6 @@ scikit_learn
 tslearn
 gym
 gymnasium
-raylib
 packaging
 kaleido==0.1.0
 h5py
