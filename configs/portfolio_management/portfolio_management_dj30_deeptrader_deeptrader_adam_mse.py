@@ -59,4 +59,4 @@ cri = dict(
     num_channels=[12, 12, 12],
     kernel_size=2,
     dropout=0.2)
-market_net = dict(type='MarketScoringNet', n_features=16, hidden_size=12)
+market = dict(type='MarketScoringNet', n_features=16, hidden_size=12)
