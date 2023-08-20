@@ -43,7 +43,7 @@ trainer = dict(
     if_remove=False )
 loss = dict(type='MSELoss')
 optimizer = dict(type='Adam', lr=0.001)
-act_net = dict(
+act = dict(
     type='AssetScoringNet',
     N=29,
     K_l=10,
