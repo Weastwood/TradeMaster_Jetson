@@ -19,7 +19,7 @@ gym
 gymnasium
 packaging
 kaleido==0.1.0
-ray[rllib]==2.0.0
+ray[rllib]==2.2.0
 h5py
 pydantic==1.10.2
 jupyter
