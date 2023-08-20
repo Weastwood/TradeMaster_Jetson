@@ -60,4 +60,4 @@ cri = dict(
     kernel_size=2,
     dropout=0.2)
 market = dict(type='MarketScoringNet', n_features=16, hidden_size=12)
-transition = dict(type='PortfolioManagementDeepTrader')
+transition = dict(type='TransitionDeepTrader')
